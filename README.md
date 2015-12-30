@@ -18,3 +18,5 @@ Hello world
 ## Image
 
 ![GitHub Logo](/images/my photo.png)
+
+some new text
