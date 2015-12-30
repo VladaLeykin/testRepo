@@ -1,6 +1,6 @@
 # testRepo
 
-Hello word 
+Hello world 
 
 + one
 + two
